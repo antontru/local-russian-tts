@@ -1,14 +1,65 @@
 {
   "_comment": "Key terms to bias transcription toward (names, jargon, brands). Sent as the MAI-Transcribe phrase list; only the first 50 entries are used (model maximum). Put the most important terms first. Edit and redeploy to update.",
   "keyterms": [
-    "A2A", "Agent 365", "Agentic AI", "AIM", "API", "Avio",
-    "BA", "BAT", "British Airways", "BVA", "Christie's", "Cluster Reply",
-    "Copilot", "Copilot Studio", "Dataverse", "DLP", "EasyJet", "EDF",
-    "Exchange", "Float", "Frontier Firm", "G-Cloud", "GraphRAG", "Innovation Lab",
-    "Jumpstart", "LBG", "LSA", "M365 Agents SDK", "Microsoft", "Murphy Group",
-    "Natural Resources Wales", "NFU Mutual", "Partner Center", "PMI", "Power Apps", "Project Online",
-    "RAG", "Royal Mail", "Salesforce", "SEGRO", "SharePoint", "SLT",
-    "Specsavers", "Staffordshire County Council", "Teams", "UAT", "Viva", "Viva Engage",
-    "Viva Learning", "Windows 365"
+    "Microsoft",
+    "M365",
+    "Copilot",
+    "Copilot Studio",
+    "Agent Builder",
+    "Agentic AI",
+    "Azure",
+    "Azure AI Foundry",
+    "Power Platform",
+    "Power Apps",
+    "Power Automate",
+    "Dataverse",
+    "Microsoft Graph",
+    "SharePoint",
+    "Teams",
+    "Viva",
+    "Purview",
+    "Entra",
+
+    "AI",
+    "LLM",
+    "RAG",
+    "GraphRAG",
+    "API",
+
+    "POC",
+    "MVP",
+    "UAT",
+    "SOW",
+    "CPOR",
+    "FTE",
+
+    "FMCG",
+    "FSI",
+
+    "Unilever",
+    "Kraft Heinz",
+    "Diageo",
+    "Haleon",
+    "Chanel",
+
+    "Barclays",
+    "Lloyds",
+    "NatWest",
+
+    "British Airways",
+    "BA",
+
+    "Vodafone",
+    "TUI",
+
+    "Arup",
+    "TfL",
+    "DSIT",
+    "MHRA",
+
+    "Specsavers",
+    "Valora",
+
+    "WM"
   ]
 }

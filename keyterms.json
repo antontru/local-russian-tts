@@ -1,0 +1,8 @@
+{
+  "_comment": "Key terms to bias transcription toward (names, jargon, brands). Up to 1000 terms, each <50 chars and <=5 words. Edit and redeploy to update. Note: using keyterms adds a +20% surcharge on the ElevenLabs transcription cost.",
+  "keyterms": [
+    "ElevenLabs",
+    "Azure",
+    "Telegram"
+  ]
+}

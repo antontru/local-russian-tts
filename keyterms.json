@@ -1,5 +1,5 @@
 {
-  "_comment": "Key terms to bias transcription toward (names, jargon, brands). Sent as the MAI-Transcribe phrase list; the first 200 entries are used. Edit and redeploy to update.",
+  "_comment": "Key terms to bias transcription toward (names, jargon, brands). Sent as the MAI-Transcribe phrase list; only the first 50 entries are used (model maximum). Put the most important terms first. Edit and redeploy to update.",
   "keyterms": [
     ".NET", "365", "6DG", "A2A", "A365", "ABM", "Accelerator 365", "ACM",
     "ADO", "Agent 365", "Agent Builder", "Agent Factory", "Agentic AI", "AI",

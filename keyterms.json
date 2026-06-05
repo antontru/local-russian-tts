@@ -1,5 +1,5 @@
 {
-  "_comment": "Key terms to bias transcription toward (names, jargon, brands). Up to 1000 terms, each <50 chars and <=5 words. Edit and redeploy to update. Note: using keyterms adds a +20% surcharge on the ElevenLabs transcription cost.",
+  "_comment": "Key terms to bias transcription toward (names, jargon, brands). Sent as the MAI-Transcribe phrase list; the first 200 entries are used. Edit and redeploy to update.",
   "keyterms": [
     ".NET", "365", "6DG", "A2A", "A365", "ABM", "Accelerator 365", "ACM",
     "ADO", "Agent 365", "Agent Builder", "Agent Factory", "Agentic AI", "AI",
